@@ -1,5 +1,7 @@
 # [APKA - informatyczne wsparcie usług online](http://www.apka.pl)
 
+![obraz](https://github.com/apka-pl/www/assets/5669657/96aaa6ca-216a-4eb5-b152-665b9af8fe0c)
+
 
 **Witaj w przyszłości zarządzania stronami internetowymi - Poznaj APKA!**
 
