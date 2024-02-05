@@ -9,7 +9,7 @@ Modernizuj, zabezpieczaj i przyspieszaj swoją stronę www z APKĄ - bez logowan
 
 Z APKA, możesz łatwo dodawać nowe funkcje do swojej strony internetowej, nie martwiąc się o dostęp do serwera czy znajomość haseł. Nasza innowacyjna usługa opiera się na mocy przekierowania i chmury obliczeniowej, pozwalając na błyskawiczne uaktualnienia i rozszerzenia funkcjonalności twojej strony w rozmowie poprzez Chat z ekspertem.
 
-[**apka.pl**](http://www.apka.pl) to outsourcing usług informatycznych po przewidywalnych kosztach usług, bez angazujących wycen z wygodnymi formami płatności.
+[**apka.pl**](http://www.apka.pl) to outsourcing usług informatycznych po przewidywalnych kosztach usług, ze wsparciem natychmiastowym online i dostarczaniem w ciągu jednego dnia, bez angażujących wycen z wygodnymi formami płatności.
 
 
 
