@@ -77,8 +77,8 @@ Niezależnie od tego, czy używasz WordPress, Shopify, Wix czy innego systemu CM
 
 ## Opłaty jednorazowe
 
-+ ratalnie: **199PLN/msc**
-+ jednorazowo: **999PLN/rok**
++ 4 raty x **250PLN/msc**
++ jednorazowo: **999PLN**
 
 
 
