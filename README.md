@@ -1,4 +1,4 @@
-# [APKA - wsparcie usług online](http://www.apka.pl)
+# [APKA - informatyczne wsparcie usług online](http://www.apka.pl)
 
 
 **Witaj w przyszłości zarządzania stronami internetowymi - Poznaj APKA!**
