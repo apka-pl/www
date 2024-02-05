@@ -54,14 +54,14 @@ Niezależnie od tego, czy używasz WordPress, Shopify, Wix czy innego systemu CM
 
 
 
-#### Zabezpieczenie, Przyśpieszenie, Optymalizacja SEO
+#### 1. Zabezpieczenie, Przyśpieszenie, Optymalizacja SEO
 
 + Ochrona przed atakami DDOS
 + Infrastruktura CDN w celu przyśpieszenia ładowania z kompresją danych
 + Optymalizacja w wyszukiwaniu w wyszukiwarkach, poprzez edycję sekcji head, oraz dostosowanie opisów
 
 
-#### Modernizacja
+#### 2. Aktualizacja 
 
 + Wykonanie 10 różnych optymalizacji do strony www
 + Aktualizacja danych na stronie,
@@ -71,7 +71,7 @@ Niezależnie od tego, czy używasz WordPress, Shopify, Wix czy innego systemu CM
 + Niezależnie od aktualnego usługodawcy
   
 
-#### Poszerzenie funkcjonalności
+#### 3. Poszerzenie funkcjonalności strony www
 
 + Wykonanie 10 różnych optymalizacji oraz dodanie do 10 nowych funkcjonalności do strony www
 + Dodanie wielu nowych rozszerzeń, bez względu na operatora domen i serwera
@@ -86,24 +86,33 @@ Niezależnie od tego, czy używasz WordPress, Shopify, Wix czy innego systemu CM
 
 
 
-#### Dedykowane funkcja
+#### 1. Funkcja na stronę www
 
 + wykonanie dedykowanej funkcjonalności (wtyczki) do aktualnej strony www
++ realizacja w ciągu 3 roboczych dni
 
   
-#### Dedykowane Usługa
+#### 2. Dedykowana Usługa SaaS
 
-+ wykonanie 1 Usługi SaaS w ciągu jednego tygodnia
++ Uruchomienie kompletnej usługi na domenie internetowej z gotowych szablonów z możliwością dopasowania wyglądu za dodatkową opłatą w subskrypcji pakiet: "Aktualizacja"
++ wykonanie 1 Usługi SaaS w ciągu jednego tygodnia w formie landing page, z takimi modułami jak:
+  + bramka płatności
+  + newsletter
+  + formularz do kontaktu
+  + dedykowany formularz
+  + chat
+  + statystyki odwiedziń
 + Płatność ratalna, usługa może zostać przeniesiona poza nasz serwer w dowolnym czasie przy opłacie rocznej lub po ostatniej wpłacie miesięcznej.
 
 
-#### Migracja
+
+#### 3. Migracja
 
 + przeniesienie strony do innego usługodawcy
 + Niezaleznie od systemu operacyjnego i oprogramowania
 
 
-#### Integracja
+#### 4. Integracja
 
 + Dodanie nowej funkcjonalności poprzez integrację z API, np ChatGPT
 + Niezaleznie od systemu operacyjnego i oprogramowania
