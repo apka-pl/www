@@ -5,19 +5,23 @@
 
 Modernizuj, zabezpieczaj i przyspieszaj swoją stronę www z APKĄ - bez logowania, bez komplikacji.
 
-Z APKA, możesz łatwo dodawać nowe funkcje do swojej strony internetowej, nie martwiąc się o dostęp do serwera czy znajomość haseł. Nasza innowacyjna usługa opiera się na mocy przekierowania i chmury obliczeniowej, pozwalając na błyskawiczne uaktualnienia i rozszerzenia funkcjonalności twojej strony - wszystko bez logowania się na serwer!
+Z APKA, możesz łatwo dodawać nowe funkcje do swojej strony internetowej, nie martwiąc się o dostęp do serwera czy znajomość haseł. Nasza innowacyjna usługa opiera się na mocy przekierowania i chmury obliczeniowej, pozwalając na błyskawiczne uaktualnienia i rozszerzenia funkcjonalności twojej strony w rozmowie poprzez Chat z ekspertem.
+
 
 ## Co zyskujesz dzięki APKA?
 
 - **Łatwość Modernizacji:** Dodawaj nowe funkcje bez potrzeby logowania się na serwer.
 - **Ochrona:** Twoja strona zostanie zabezpieczona przed atakami DDOS.
 - **Przyspieszone Ładowanie:** Dzięki usłudze CDN, twoja strona będzie się ładować szybciej, co przekłada się na lepsze wrażenia użytkownika.
-- **Bezproblemowa Integracja:** Proces przekierowania strony na naszą chmurę jest prosty i nie wymaga zaawansowanej wiedzy technicznej.
+- **Bezproblemowa Integracja:** Proces przekierowania strony na naszą chmurę jest prosty i nie wymaga zaawansowanej wiedzy technicznej, pomagamy w konfiguracji
 
 
 ## Modernizacja
 
-Jesteśmy w stanie zaoferować setki aplikacji W oparciu o już istniejącą stronę www lub infrastrukturę.
+Jesteśmy w stanie zaoferować setki aplikacji W oparciu o już istniejącą stronę www lub infrastrukturę 
+bez logowania się na Twój serwer - oznacza, że możemy aktualizować Twoją stronę/usługę online nawet gdy nie masz kontaktu z poprzednim usługodawcą.
+Zapewniamy również migrację do nas, jeśli jest taka potrzeba.
+
 
 **Zmodernizuj swoją stronę z naszą pomocą - szybko i bezproblemowo!**
 
@@ -155,4 +159,7 @@ Zapewniamy dodatkowo ochronę przed atakami DDOD i przyśpieszamy szybkość ła
 Dołącz do APKA już dziś, by łatwo modernizować, zabezpieczać i przyspieszać swoją stronę internetową, z korzystając z najnowszych technologii, bez zbędnych komplikacji!
 
 
+---
 
++ [edit](https://github.com/apka-pl/www/edit/main/README.md)
++ [git](https://github.com/apka-pl/www)
