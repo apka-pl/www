@@ -18,12 +18,9 @@ Z APKA, możesz łatwo dodawać nowe funkcje do swojej strony internetowej, nie 
 
 ## Modernizacja
 
-Jesteśmy w stanie zaoferować setki aplikacji W oparciu o już istniejącą stronę www lub infrastrukturę 
-bez logowania się na Twój serwer - oznacza, że możemy aktualizować Twoją stronę/usługę online nawet gdy nie masz kontaktu z poprzednim usługodawcą.
-Zapewniamy również migrację do nas, jeśli jest taka potrzeba.
-
-
 **Zmodernizuj swoją stronę z naszą pomocą - szybko i bezproblemowo!**
+
+Oferujemy **setki dodatkowych funkcji** w oparciu o już istniejącą stronę www lub infrastrukturę.
 
 Chcesz odświeżyć swoją stronę internetową, ale nie wiesz, od czego zacząć? 
 + boisz się kosztów wyceny u informatyka?
@@ -37,7 +34,7 @@ Nasza drużyna doświadczonych doradców online jest dostępna przez chat, aby p
 Niezależnie od tego, czy używasz WordPress, Shopify, Wix czy innego systemu CMS czy SaaS, jesteśmy tu, aby ułatwić Ci dodanie nowych funkcjonalności bez stresu i zaawansowanej wiedzy technicznej.
 
 **Skorzystaj z naszych usług i przekonaj się, jak łatwo możesz unowocześnić swoją stronę.** Nasz zespół doradców online pomaga w wyborze i implementacji idealnych rozwiązań dla Twojej strony, bez względu na to, z jakiego CMS czy SaaS korzystasz. Nie czekaj, zadaj pierwsze pytanie już dziś, a my zajmiemy się resztą!
-
+**Bez logowania się na Twój serwer** - aktualizujemy stronę/usługę online nawet, gdy nie masz kontaktu z poprzednim usługodawcą, jedynie migracja do innego usługodawcy wymaga uprawnień do serwera/strony wwww, jeśli jest taka potrzeba.
 
 
 ---
