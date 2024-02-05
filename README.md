@@ -12,8 +12,8 @@ Z APKA, możesz łatwo dodawać nowe funkcje do swojej strony internetowej, nie 
 
 - **Łatwość Modernizacji:** Dodawaj nowe funkcje bez potrzeby logowania się na serwer.
 - **Ochrona:** Twoja strona zostanie zabezpieczona przed atakami DDOS.
-- **Przyspieszone Ładowanie:** Dzięki usłudze CDN, twoja strona będzie się ładować szybciej, co przekłada się na lepsze wrażenia użytkownika.
-- **Bezproblemowa Integracja:** Proces przekierowania strony na naszą chmurę jest prosty i nie wymaga zaawansowanej wiedzy technicznej, pomagamy w konfiguracji
+- **Przyspieszone Ładowanie:** Dzięki usłudze CDN, twoja strona będzie się ładować szybciej
+- **Bezproblemowa Integracja:** Proces przekierowania strony nie wymaga zaawansowanej wiedzy technicznej, pomagamy w konfiguracji
 
 
 ## Modernizacja
