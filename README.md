@@ -40,12 +40,13 @@ Niezależnie od tego, czy używasz WordPress, Shopify, Wix czy innego systemu CM
 
 
 
+---
 
 ## Oferta w subskrypcji
 
 + Cena za pakiet: **49PLN/msc** (499PLN/rok)
-+ dotyczy jednej strony internetowej firmy
-+ wszelkie zmiany wykonywane są na naszym serwerze, dzięki czemu klient nie musi martwić się o dostępność swojej strony, moze nawet zrezygnować z aktualnego.
++ Dotyczy jednej strony internetowej firmy
++ Wszelkie zmiany wykonywane są na naszym serwerze, dzięki czemu klient nie musi martwić się o dostępność swojej strony, moze nawet zrezygnować z aktualnego usługodawcy.
 + Dbamy o dostęp do usług 24/h
 
 
@@ -55,7 +56,6 @@ Niezależnie od tego, czy używasz WordPress, Shopify, Wix czy innego systemu CM
 + Ochrona przed atakami DDOS
 + Infrastruktura CDN w celu przyśpieszenia ładowania z kompresją danych
 + Optymalizacja w wyszukiwaniu w wyszukiwarkach, poprzez edycję sekcji head, oraz dostosowanie opisów
-
 
 
 #### Modernizacja
@@ -68,7 +68,6 @@ Niezależnie od tego, czy używasz WordPress, Shopify, Wix czy innego systemu CM
 + Niezależnie od aktualnego usługodawcy
   
 
-
 #### Poszerzenie funkcjonalności
 
 + Wykonanie 10 różnych optymalizacji oraz dodanie do 10 nowych funkcjonalności do strony www
@@ -77,12 +76,10 @@ Niezależnie od tego, czy używasz WordPress, Shopify, Wix czy innego systemu CM
 
 
 
-
 ## Opłaty jednorazowe
 
-Cena:
-  + ratalnie: **199PLN/msc**
-  + jednorazowo: **999PLN/rok**
++ ratalnie: **199PLN/msc**
++ jednorazowo: **999PLN/rok**
 
 
 
@@ -108,6 +105,8 @@ Cena:
 + Dodanie nowej funkcjonalności poprzez integrację z API, np ChatGPT
 + Niezaleznie od systemu operacyjnego i oprogramowania
 
+
+---
 
 
 
