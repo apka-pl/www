@@ -170,10 +170,22 @@ Zapewniamy dodatkowo ochronę przed atakami DDOD i przyśpieszamy szybkość ła
 Dołącz do APKA już dziś, by łatwo modernizować, zabezpieczać i przyspieszać swoją stronę internetową, z korzystając z najnowszych technologii, bez zbędnych komplikacji!
 
 
-## EN
+## EN Offer
 
-I have no illusions that low prices for mass services are a matter of time. 
+
+Unrealistic client expectations are a common challenge for freelancers. 
+As a freelancer who deals mostly with small clients, I've noticed that 80% of them have unrealistic expectations. 
+They pay a small amount for a template from GitHub and a third-world Fiverr freelancer. 
+When I configure it in just two hours, they consider it a steal.
+However, when it comes to creating something custom from scratch, they expect it to take only three days and cost few hundrets of dollars. 
+
+
+Finding a good client with a longer-term project and fair pay can take weeks or even months. 
+It's important to set realistic expectations and educate clients on the value of custom work. 
+
+But I have no illusions that low prices for mass services are a matter of time. 
 In my opinion, we simply need to co-create this market, based on FaaS and SaaS with CDN and DNS Infrastructure. 
+
 Today I am one of the few, maybe you will join? 
 
 
