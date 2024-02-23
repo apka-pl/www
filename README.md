@@ -170,6 +170,13 @@ Zapewniamy dodatkowo ochronę przed atakami DDOD i przyśpieszamy szybkość ła
 Dołącz do APKA już dziś, by łatwo modernizować, zabezpieczać i przyspieszać swoją stronę internetową, z korzystając z najnowszych technologii, bez zbędnych komplikacji!
 
 
+## EN
+
+I have no illusions that low prices for mass services are a matter of time. 
+In my opinion, we simply need to co-create this market, based on FaaS and SaaS with CDN and DNS Infrastructure. 
+Today I am one of the few, maybe you will join? 
+
+
 ---
 
 + [edit](https://github.com/apka-pl/www/edit/main/README.md)
